@@ -1,0 +1,8 @@
+/Users/i545330/projects/conference-demo/src/main/java/com/pluralsight/conferencedemo/controller/SpeakersController.java
+/Users/i545330/projects/conference-demo/src/main/java/com/pluralsight/conferencedemo/controller/SessionsController.java
+/Users/i545330/projects/conference-demo/src/main/java/com/pluralsight/conferencedemo/ConferenceDemoApplication.java
+/Users/i545330/projects/conference-demo/src/main/java/com/pluralsight/conferencedemo/respoitory/SessionRepository.java
+/Users/i545330/projects/conference-demo/src/main/java/com/pluralsight/conferencedemo/respoitory/SpeakerRepository.java
+/Users/i545330/projects/conference-demo/src/main/java/com/pluralsight/conferencedemo/model/Speaker.java
+/Users/i545330/projects/conference-demo/src/main/java/com/pluralsight/conferencedemo/config/SpringFoxConfig.java
+/Users/i545330/projects/conference-demo/src/main/java/com/pluralsight/conferencedemo/model/Session.java
